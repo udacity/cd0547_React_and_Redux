@@ -1,5 +1,5 @@
 import { saveLikeToggle, saveTweet } from "../utils/api";
-import { showLoading, hideLoading } from "../actions/loading";
+import { showLoading, hideLoading } from "./loading";
 export const RECEIVE_TWEETS = "RECEIVE_TWEETS";
 export const TOGGLE_TWEET = "TOGGLE_TWEET";
 export const ADD_TWEET = "ADD_TWEET";

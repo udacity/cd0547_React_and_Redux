@@ -1,18 +1,13 @@
-# Chirper Project
+## React + Redux: Updated Course Code
 
-This is a project in the React Nanodegree program.
+This folder contains an updated version of the code from the "Implementing React with Redux" lessons.
 
-## Project Setup
+### Folder Structure
 
-- Clone the Project.
-- Install the dependencies: `npm install`
+- **Start** – The initial project setup, as used at the beginning of the course. Includes setup instructions and comments to guide you through building the app step by step.
+- **Complete** – A fully built and working version of the application.
 
-## Contributing
+### Key Updates
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
-
-## License
-
-MIT
+- **No external backend required**: The app now includes a built-in mock API, removing the need for a separate backend server.
+- **Loading bar replacement**: We've removed react-redux-loading-bar. Similar functionality has been implemented manually in the code. You’ll find setup instructions in the Start version.

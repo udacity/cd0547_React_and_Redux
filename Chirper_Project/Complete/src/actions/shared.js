@@ -2,7 +2,7 @@ import { getInitialData } from "../utils/api";
 import { receiveUsers } from "./users";
 import { receiveTweets } from "./tweets";
 import { setAuthedUser } from "./authedUser";
-import { showLoading, hideLoading } from "../actions/loading";
+import { showLoading, hideLoading } from "./loading";
 
 const AUTHED_ID = "tylermcginnis";
 
