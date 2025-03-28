@@ -9,5 +9,4 @@ This folder contains an updated version of the code from the "Implementing React
 
 ### Key Updates
 
-- **No external backend required**: The app now includes a built-in mock API, removing the need for a separate backend server.
 - **Loading bar replacement**: We've removed react-redux-loading-bar. Similar functionality has been implemented manually in the code. You’ll find setup instructions in the Start version.
